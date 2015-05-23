@@ -1,0 +1,12 @@
+package Model;
+public class CashCard
+{
+	public String number;
+	int balance;
+
+	public CashCard(String number, int balance)
+	{
+		this.number = number;
+		this.balance = balance;
+	}
+}

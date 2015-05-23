@@ -1,0 +1,11 @@
+public class CashCard
+{
+	String number;
+	int balance;
+
+	public CashCard(String number, int balance)
+	{
+		this.number = number;
+		this.balance = balance;
+	}
+}
